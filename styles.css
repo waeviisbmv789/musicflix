@@ -1,6 +1,7 @@
 body{
     color: rgb(242, 5, 5);
     background-color: rgb(6, 6, 6);
+    margin: 0px;
 }
 header {
     border-bottom: solid 2px rgb(0, 0, 0);
